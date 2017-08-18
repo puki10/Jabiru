@@ -1,0 +1,37 @@
+p {
+    color:black;
+    font-size:200%;
+}
+
+h1 {
+    background-color: white; color: rgb(255, 153,0);
+}            
+
+h2 { 
+   color: rgb(255, 153,0);
+}            
+
+
+}            
+
+h3 { 
+   color: #4d0000;
+   font-size:150%;
+}            
+
+cite { 
+   color: #4d0000;
+   font-size:150%;
+   
+}            
+
+
+
+
+
+body {
+    background-color:white;
+    color:white;
+    margin:0 4px 0 0;
+    border:12px solid;
+}  
