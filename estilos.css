@@ -35,3 +35,17 @@ body {
     margin:0 4px 0 0;
     border:12px solid;
 }  
+
+
+
+img {
+    display:block;
+	margin: auto;
+	width: 60%
+}  
+
+iframe {
+    display:block;
+	margin: auto;
+	width: 60%
+}  
